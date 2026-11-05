@@ -1,0 +1,8 @@
+Docentes iOS 16.2 - SwiftUI + UserDefaults (NO SwiftData)
+1. Abre Docentes.xcodeproj en Xcode 14.2 o superior.
+2. Selecciona iPhone 14 Pro (iOS 16.2) en la barra superior.
+3. Pulsa Cmd+B y luego Cmd+R.
+4. Prueba crear, buscar, editar y eliminar docentes.
+Los registros se conservan localmente con Codable y UserDefaults.
+El proyecto está configurado para simulador sin firma de código.
+No ha sido compilado en un Mac en este entorno.
